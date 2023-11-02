@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "420976386744",
+    "project_id": "chatapplication-dac89",
+    "storage_bucket": "chatapplication-dac89.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:420976386744:android:f5a39f3f5bb86f93a84a4d",
+        "android_client_info": {
+          "package_name": "com.example.chatapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQ4GqnasFrlqI1MqGAkUxDEbKsVy5pd6c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
